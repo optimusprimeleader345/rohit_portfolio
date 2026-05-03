@@ -17,7 +17,7 @@ A comprehensive portfolio showcasing my journey as a Data Science & AI professio
 - Features 5 specialized agents working in concert
 - Real-time token streaming via WebSockets
 - Intelligent routing for 30-50% cost reduction
-- [Live Demo](https://gemini-tau-taupe.vercel.app/) | [GitHub Repository](https://github.com/optimusprimeleader345/orion-ai-)
+- [Live Demo](https://gemini-tau-taupe.vercel.app/) | [GitHub Repository](https://github.com/optimusprimeleader345/orion-ai)
 
 #### [Universal AI Workspace](https://universal-ai-workspace.vercel.app/)
 **Status: 🟢 Almost Done**
@@ -25,7 +25,7 @@ A comprehensive portfolio showcasing my journey as a Data Science & AI professio
 - Planner & Worker agent architecture
 - Tool calling, execution logs, and traceability
 - Demonstrates deep systems thinking beyond simple prompting
-- [Live Demo](https://universal-ai-workspace.vercel.app/) | [GitHub Repository](https://github.com/optimusprimeleader345/universal-ai-workspace-)
+- [Live Demo](https://universal-ai-workspace.vercel.app/) | [GitHub Repository](https://github.com/optimusprimeleader345/universal-ai-workspace)
 
 #### [Hirezy - Student Freelancing Platform](https://hirezy-platform.vercel.app/)
 **Status: ✅ Completed**
