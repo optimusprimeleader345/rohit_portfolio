@@ -25,14 +25,14 @@ A comprehensive portfolio showcasing my journey as a Data Science & AI professio
 - Planner & Worker agent architecture
 - Tool calling, execution logs, and traceability
 - Demonstrates deep systems thinking beyond simple prompting
-- [Live Demo](https://universal-ai-workspace.vercel.app/) | [GitHub Repository](https://github.com/optimusprimeleader345/universal-ai-workspace)
+- [Live Demo](https://universal-ai-workspace.vercel.app/) | [GitHub Repository](https://github.com/optimusprimeleader345/universal-ai-workspace-)
 
 #### [Hirezy - Student Freelancing Platform](https://hirezy-platform.vercel.app/)
 **Status: ✅ Completed**
 - AI-Powered Hiring & Product Logic
 - Full-stack marketplace with recruiter/student workflows
 - AI-assisted matching/proposals and admin moderation
-- [Live Demo](https://hirezy-platform.vercel.app/) | [GitHub Repository](https://github.com/optimusprimeleader345/hirezy)
+- [Live Demo](https://hirezy-platform.vercel.app/) | [GitHub Repository](https://github.com/optimusprimeleader345/hirezy-platform)
 
 #### [Sentinel AI - Cybersecurity Automation](https://sentinel-ai-ruby.vercel.app/)
 **Status: 🟡 In Progress**
