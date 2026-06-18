@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://optimusprimeleader345.github.io/rohit_portfolio/sitemap.xml
